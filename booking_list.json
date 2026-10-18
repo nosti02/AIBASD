@@ -1,0 +1,16 @@
+{
+  "users": [
+    "1",
+    "2"
+  ],
+  "confirmed_bookings": [
+    {
+      "number": 0,
+      "id": "1"
+    },
+    {
+      "number": 1,
+      "id": "2"
+    }
+  ]
+}
